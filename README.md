@@ -1,1 +1,3 @@
-# Exercice-Cadavre-Exquis-Quentin
+# Une histoire tellement originale
+
+Salut voici le début de mon histoire...
